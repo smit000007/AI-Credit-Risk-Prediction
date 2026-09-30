@@ -1,0 +1,23 @@
+feature,display_name,mean_abs_shap,relative_importance_pct
+weighted_delinquency_score,Severity-Weighted Delinquency Index,0.12018,23.74
+credit_utilization,Revolving Credit Utilization,0.09043,17.87
+payment_to_income,Payment-to-Income Ratio (PTI),0.04314,8.52
+age_bucket_code,Age Segment Tier,0.03524,6.96
+debt_to_income,Debt-to-Income Ratio (DTI),0.03449,6.81
+total_delinquencies,Total Historical Delinquencies,0.02631,5.2
+NumberRealEstateLoansOrLines,Real Estate / Mortgage Lines,0.02218,4.38
+age,Applicant Age (Years),0.01828,3.61
+real_estate_loan_ratio,Real Estate Share of Credit Lines,0.01624,3.21
+income_per_dependent,Income per Household Member ($),0.01431,2.83
+MonthlyIncome,Monthly Gross Income ($),0.01427,2.82
+NumberOfOpenCreditLinesAndLoans,Open Credit Lines & Loans,0.01274,2.52
+NumberOfTime60-89DaysPastDueNotWorse,60-89 Days Past Due Count,0.01156,2.28
+any_delinquency_flag,Prior Delinquency Flag,0.00978,1.93
+NumberOfTime30-59DaysPastDueNotWorse,30-59 Days Past Due Count,0.00885,1.75
+NumberOfDependents,Number of Dependents,0.00823,1.63
+high_dti_flag,High Debt-to-Income (>43%) Flag,0.00638,1.26
+NumberOfTimes90DaysLate,90+ Days Severe Delinquency Count,0.00364,0.72
+high_utilization_flag,High Credit Utilization (>80%) Flag,0.00361,0.71
+severe_delinquency_flag,Severe 90+ Day Delinquency Flag,0.00307,0.61
+income_missing_flag,Unverified / Imputed Income Flag,0.00304,0.6
+dependents_missing_flag,Imputed Dependents Flag,0.00018,0.04

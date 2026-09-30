@@ -1,0 +1,13 @@
+delinquency_status,utilization_band,applicant_count,default_count,default_rate_pct,risk_rank
+1. Clean (No Past Due),Over-Limit (>100%),278,65,23.38,6
+1. Clean (No Past Due),High (70-100%),432,45,10.42,9
+1. Clean (No Past Due),Medium (30-70%),4490,292,6.5,11
+1. Clean (No Past Due),Low (<30%),5970,234,3.92,12
+2. Moderate (30-89 DPD),Over-Limit (>100%),202,95,47.03,3
+2. Moderate (30-89 DPD),High (70-100%),203,50,24.63,5
+2. Moderate (30-89 DPD),Medium (30-70%),983,135,13.73,8
+2. Moderate (30-89 DPD),Low (<30%),1143,97,8.49,10
+3. Severe (90+ DPD),Over-Limit (>100%),189,130,68.78,1
+3. Severe (90+ DPD),High (70-100%),151,74,49.01,2
+3. Severe (90+ DPD),Medium (30-70%),445,125,28.09,4
+3. Severe (90+ DPD),Low (<30%),514,79,15.37,7

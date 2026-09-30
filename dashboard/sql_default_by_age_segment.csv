@@ -1,0 +1,6 @@
+age_segment,total_applicants,total_defaults,default_rate_pct,avg_utilization_pct,avg_monthly_income,share_of_all_defaults_pct
+1. Under 25,459,84,18.3,44.98,4776.0,5.91
+2. 25-34 (Early Career),1379,179,12.98,40.98,6070.0,12.6
+3. 35-49 (Mid Career),4932,504,10.22,35.68,6729.0,35.47
+4. 50-64 (Pre-Retirement),5503,478,8.69,35.08,6372.0,33.64
+5. 65+ (Senior),2725,176,6.46,35.5,5670.0,12.39
